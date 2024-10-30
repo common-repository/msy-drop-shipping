@@ -1,0 +1,3 @@
+.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger {
+    display: none !important;
+}
